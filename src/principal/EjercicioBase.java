@@ -13,12 +13,9 @@ public class EjercicioBase {
 		int num = teclado.nextInt();
 		
 		int numeros[] = new int[num];
-		System.out.println(numeros);
 		System.out.println("Introduce el vector:");
 		FuncionesVectores.pedirVector(numeros);
-		
-		int otro[] = FuncionesVectores.pedirVector(num);
-		
+				
 		System.out.println("Tu vector es ");
 		FuncionesVectores.mostrarVector(numeros);
 		
