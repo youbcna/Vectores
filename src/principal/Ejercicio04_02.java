@@ -7,7 +7,10 @@ import funciones.FuncionesVectores;
 public class Ejercicio04_02 {
 
 	public static void main(String[] args) {
-		// TODO Esbozo de método generado automáticamente
+		/**
+		 * Dado un array de enteros de tamaño N, visualizar por pantalla todos los elementos del mismo cuyo valor sea 
+		 * menor que un número A. 
+		 */
 		Scanner teclado = new Scanner(System.in);
 		System.out.println("Introduce el numero de elementos para le vector");
 		int num = teclado.nextInt();

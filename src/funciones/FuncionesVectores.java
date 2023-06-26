@@ -165,6 +165,14 @@ public class FuncionesVectores {
 		
 		return true;
 	}
+
+	public static void SumarVector(int[] numeros1, int[] numeros2) {
+		// TODO Suma de vectores
+		
+		
+		in
+		
+	}
 	}
 	
 
